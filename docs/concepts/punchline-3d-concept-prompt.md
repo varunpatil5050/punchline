@@ -1,0 +1,13 @@
+# PUNCHLINE 3D concept mockup - generation record
+
+Generated on 2 October 2026 using the built-in OpenAI ImageGen tool. This is a pre-jam art-direction illustration, not a gameplay screenshot or an implemented game scene.
+
+## Exact prompt
+
++Use case: stylized-concept.
+Asset type: game art-direction concept mockup for PUNCHLINE, an original 100-hour 3D comic puzzle platformer.
+Primary request: a striking, achievable indie-game visual target: an open pop-up comic book whose panel has unfolded into a fully three-dimensional playable miniature city rooftop. Show actual sculptural depth, height, overlapping platforms, thick paper edges and folded scenery. Frame from an elevated three-quarter game camera, with a clear small playable room and a visible exit. The set fills most of the image, beautifully composed and readable.
+Subject: Snap, one appealing small stylized background comic character with a cyan flash camera and orange accent scarf, caught in a joyful upward launch from a floor-mounted printed BAM! burst sign. The camera emits a short visible cyan cone onto that sign. An orange upward force arrow and an ink impact burst make the causal interaction clear. One simple wooden comic crate sits on a nearby broad ledge; a second reachable ledge and exit establish a puzzle.
+Style/medium: polished stylized 3D concept render of simple low-poly paper-crafted scenery and an expressive toy-like character, cel-shaded color bands and crisp black ink contours. Game-readable shapes, flat paper buildings with folded supports, comic panel borders, restrained halftone printed details. Warm cream paper, charcoal ink, burnt orange sound-effect graphics and cyan light. Dramatic but sparse lighting; realistic scene complexity for a five-person jam team. Depth and character expression are the spectacle.
+Composition: landscape 16:9 presentation, room inside a large black comic-panel frame, open book page edges visible at foreground. Plenty of separation around the character and word. No crowded city or vast environment. A modest title in the upper left says exactly "PUNCHLINE"; the force sign says exactly "BAM!"; a small readable lower-right tag says exactly "CONCEPT MOCKUP". These are the only text labels.
+Constraints: this is clearly a concept mockup, not a claimed screenshot. Do not add HUD bars, inventory, weapons, collectible coins, enemy crowds or unrelated mechanics. No photorealistic human, no hyper-detailed expensive assets, no borrowed franchise characters or logos, no watermark. Preserve a coherent compact 3D pop-up comic room and a single readable light-activated launch.
